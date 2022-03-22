@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>puroclean.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>63F802D1CFBF3AD540B0C0FF01C48BABC63D5411</string>
+				<key>dateExpires</key>
+				<string>08.03.2023</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>83TC3M234H.app.puroclean.PurocleanApp</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>83TC3M234H</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>83TC3M234H.app.puroclean.PurocleanApp</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>puroclean.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c82fedaa-85c6-4a8c-b6fe-57654a7f3617</string>
+				<key>dateExpires</key>
+				<string>08.03.2023</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: app.puroclean.PurocleanApp</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>83TC3M234H</string>
+				<key>name</key>
+				<string>BRIGHTPINK STUDIO, INC</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>0.1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
